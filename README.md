@@ -20,7 +20,7 @@ API.
     
 
    ```bash
-   git clone <https://github.com/ishita1226/bharatNXT.git> 
+   git clone https://github.com/ishita1226/bharatNXT.git
 
    cd bharat_nxt_assignment
    ```
